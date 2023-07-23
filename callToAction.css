@@ -1,0 +1,30 @@
+.callToAction{
+    margin: 80px, 0;
+    background-image: linear-gradient(to right, #362321, transparent), url('./images/banner-2.png');
+    background-position: center;
+    background-size: cover;
+    border-radius: 10px;
+    padding: 5%;
+    color: #fff;
+}
+
+.callToAction h3{
+    font-size: 4vw;
+    line-height: 5.3vw;
+    font-weight: 500;
+}
+
+.callToAction p{
+    font-size: 18px;
+    margin: 10px 0;
+}
+
+.callToAction a{
+    background-color: #ff5361;
+    color: #fff;
+    text-decoration: none;
+    padding: 12px 30px;
+    margin-top: 20px;
+    border-radius: 8px;
+    display: inline-block;
+}
